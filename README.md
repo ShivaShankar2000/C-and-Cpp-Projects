@@ -1,2 +1,2 @@
-# C-C-projects
+# C/C++projects
 Workings on C and C++
